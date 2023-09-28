@@ -107,7 +107,7 @@ main {
     }
 
     #careers_aside {
-        width: 50
+        width: 50%;
     }
     #contact_info {
         list-style-type: none;
@@ -169,7 +169,7 @@ main {
     }
 
     #careers_aside {
-        width: 50
+        width: 50%;
     }
     #contact_p {
         margin: 0 auto;
